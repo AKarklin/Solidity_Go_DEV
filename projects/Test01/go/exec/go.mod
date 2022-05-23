@@ -2,7 +2,7 @@ module main
 
 go 1.18
 
-require github.com/AKarklin/Solidity_Go_DEV v0.0.0-20220523115622-b188aa9c9d1e
+require github.com/AKarklin/Solidity_Go_DEV v0.0.0-20220523164336-6ab6e87597c4
 
 require (
 	github.com/golang-jwt/jwt v3.2.2+incompatible // indirect

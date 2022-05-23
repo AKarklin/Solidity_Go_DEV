@@ -3,7 +3,7 @@ package main
 import (
 	"net/http"
 
-	"github.com/AKarklin/Solidity_Go_DEV/contracts_go_api/Test01/api" // this would be your generated smart contract bindings
+	"github.com/AKarklin/Solidity_Go_DEV/projects/Test01/api" // this would be your generated smart contract bindings
 	"github.com/ethereum/go-ethereum/accounts/abi/bind"
 	"github.com/ethereum/go-ethereum/common"
 	"github.com/ethereum/go-ethereum/ethclient"
